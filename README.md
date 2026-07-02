@@ -1,16 +1,22 @@
 ## Hi there 👋
+# Hi there 👋 I'm CtrlAltBeard
 
-<!--
-**CtrlAltBeard/CtrlAltBeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **marketer-turned-IT-support-enthusiast** on a mission to break into **cybersecurity** in Belgium.
+Currently learning **Windows, Networking, and Python** through **HackYourFuture** and **TryHackMe**.
 
-Here are some ideas to get you started:
+### 🎯 Goals for 2026 / 2027
+- [x] Start IT Support journey
+- [ ] HackYourFuture cybersecurity path
+- [ ] Land first IT Support job
+- [ ] Complete TryHackMe Pre Security Path
+- [ ] Build a home lab for cybersecurity
+- [ ] Land a job in cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **OS:** Windows, Linux
+- **Networking:** TCP/IP, DNS, DHCP
+- **Tools:** VirtualBox, Wireshark, GitHub
+- **Learning:** Python, Bash, Cybersecurity Fundamentals
+
+### 🔗 Connect With Me
+[![Blog](https://maschile.bearblog.dev/) (Ita/Eng)
