@@ -19,4 +19,4 @@ Currently learning **Windows, Networking, and Python** through **HackYourFuture*
 - **Learning:** Python, Bash, Cybersecurity Fundamentals
 
 ### 🔗 Connect With Me
-[![Blog](https://maschile.bearblog.dev/) (Ita/Eng)
+[!} [Blog](https://maschile.bearblog.dev/) (Ita/Eng)
