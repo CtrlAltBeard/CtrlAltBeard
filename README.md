@@ -8,7 +8,7 @@ Currently learning **Linux, Networking, and Python** through **HackYourFuture** 
 - [x] Start IT Support journey
 - [ ] HackYourFuture Courses
 - [ ] Land first IT Support job
-- [ ] Complete TryHackMe Pre Security Path
+- [ ] Complete TryHackMe Security Analyst + AI roadmap
 - [ ] Build a home lab for cybersecurity
 - [ ] Land a job in cybersecurity
 
