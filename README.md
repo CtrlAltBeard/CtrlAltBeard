@@ -2,7 +2,7 @@
 # Hi there 👋 I'm CtrlAltBeard
 
 I'm a **marketer-turned-IT-support-enthusiast** on a mission to break into **cybersecurity** in Belgium.
-Currently learning **Linux, Networking, and Python** through **HackYourFuture** and **HackTheBox** and selfstudy.
+Currently learning **Linux, Networking, and Python** through **HackTheBox** and selfstudy.
 
 ### 🎯 Goals for 2026 / 2027
 - [x] Start IT Support journey
