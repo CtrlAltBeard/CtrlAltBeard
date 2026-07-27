@@ -13,7 +13,7 @@ Currently learning **Linux, Networking, and Python** through **HackTheBox** and 
 - [ ] Land a job in cybersecurity
 
 ### 🛠️ Tech Stack
-- **OS:** Windows, Linux
+- **OS:** Windows, Linux (Mint + Parrot OS)
 - **Networking:** TCP/IP, DNS, DHCP
 - **Tools:** Virt-Manager, Wireshark, GitHub
 - **Learning:** Python, Bash, Cybersecurity Fundamentals
