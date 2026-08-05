@@ -6,7 +6,7 @@ Currently learning **Linux, Networking, and Python** through **HackTheBox** and 
 
 ### 🎯 Goals for 2026 / 2027
 - [x] Start IT journey
-- [ ] HackYourFuture Courses 1/2 completed
+- [ ] Google Cybersecurity Certificate
 - [ ] Graduaat Systeem- en Netwerkbeheer - 1ste jaar
 - [ ] Complete HackTheBox tier 0 courses
 - [ ] Build a home lab
